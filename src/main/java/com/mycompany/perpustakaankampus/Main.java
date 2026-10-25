@@ -236,6 +236,6 @@ public class Main {
             System.out.println(depan + " sudah diproses dan keluar dari antrean.");
         } else {
             System.out.println(depan + " tetap berada di antrean.");
-        }yuo
+        }
     }
 }
