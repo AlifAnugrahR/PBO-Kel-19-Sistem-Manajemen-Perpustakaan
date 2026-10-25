@@ -53,5 +53,5 @@ Proyek ini bertujuan memahami penerapan konsep Pemrograman Berorientasi Objek da
 
 ---
 
-**Kelompok 19 — Sistem Informasi**  
+**Kelompok 19 - Sistem Informasi**  
 **Universitas Mulawarman, 2026**
